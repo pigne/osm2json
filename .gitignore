@@ -1,0 +1,6 @@
+bin/
+*.class
+*.json
+.classpath
+.settings
+.project
